@@ -1,2 +1,2 @@
-# python-ukoly
-Repo for Python school projects
+# Python - school projects and exercises
+Tereza Hartigová, IT2A
