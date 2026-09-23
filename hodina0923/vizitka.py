@@ -1,0 +1,8 @@
+name = input("Zadej jméno: ")
+field = input("Jaký je tvůj obor? ")
+print("")
+print("====================")
+print("Jméno: " + name)
+print("Obor: " + field)
+print("====================")
+print("")
