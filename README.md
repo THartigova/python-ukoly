@@ -1,2 +1,2 @@
 # Python - school projects and exercises
-Tereza Hartigová, IT2A
+Tereza Hartigová, IT2A - Python úkoly
