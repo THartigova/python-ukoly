@@ -1,7 +1,7 @@
 print("ÚKOL NA CENU DO DIVADLA")
 
 basePrice = 500
- 
+
 age = float(input("Věk návštěvníka: "))
 studentAnswer = input("Je student (ano/ne): ").strip().lower()
 peopleCount = int(input("Počet osob: "))
